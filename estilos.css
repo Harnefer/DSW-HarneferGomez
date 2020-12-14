@@ -15,6 +15,7 @@ h3 {
 .slaider {
     width: 95%;
     margin: auto;
+    overflow: hidden;
 }
 .slaider ul {
     display: flex;

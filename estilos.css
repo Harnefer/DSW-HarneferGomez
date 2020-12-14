@@ -19,8 +19,13 @@ h3 {
 .slaider ul {
     display: flex;
     padding: 0%;
+    width: 500%;
     
 }
 .slaider li {
     list-style: none;
+    width: 100%;
+}
+.slaider img {
+    width: 100%;
 }

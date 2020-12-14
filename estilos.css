@@ -22,7 +22,7 @@ h3 {
     padding: 0;
     width: 500%;
 
-    animation: cambio 20s infinite alternate;
+    animation: primero 20s infinite alternate;
     
     
 }
@@ -34,7 +34,7 @@ h3 {
     width: 100%;
 }
 
-@keyframes cambio {
+@keyframes primero {
     0% {margin-left: 0;}
     35% {margin-left: 0;}
 

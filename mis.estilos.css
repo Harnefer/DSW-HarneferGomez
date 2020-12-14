@@ -18,3 +18,15 @@ body{
     width: 90%;
     margin: 50px;
 }
+.slaider {
+    width: 95%;
+    margin: auto;
+}
+.slaider ul {
+    display: flex;
+    padding: 0%;
+    
+}
+.slaider li {
+    list-style: none;
+}

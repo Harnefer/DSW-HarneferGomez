@@ -12,3 +12,15 @@ h3 {
     color: darkslateblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.slaider {
+    width: 95%;
+    margin: auto;
+}
+.slaider ul {
+    display: flex;
+    padding: 0%;
+    
+}
+.slaider li {
+    list-style: none;
+}
